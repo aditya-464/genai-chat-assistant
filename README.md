@@ -1,6 +1,6 @@
 # 🧠 Generative AI Chat Assistant
 
-A minimalistic, context-aware conversational AI chatbot built using **Flask**, **LangChain**, and **React (Vite)**.  
+A context-aware conversational AI chatbot built using **Flask**, **LangChain**, and **React (Vite)**.  
 The chatbot uses **OpenAI GPT** to generate human-like responses and maintains conversation memory for better context.  
 
 The Generative AI Chat Assistant can be applied across multiple domains. It can serve as a **customer support chatbot**, a **virtual tutor** in education, or a **knowledge retrieval assistant** for documents and FAQs. It is also useful in **healthcare** for basic guidance, in **productivity tools** for summarization and note-taking, and in **entertainment** for interactive storytelling or in-game chat.
